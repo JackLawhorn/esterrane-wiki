@@ -192,13 +192,15 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e35da5d655826069",
   "lastOpenFiles": [
-    "Adventurer's Guide to Esterrane.md",
+    "Midmark.md",
     "Oakwest Company.md",
+    "Adventurer's Guide to Esterrane.md",
     "TODO.md",
     "Blue Hole.md",
     "The Map of Esterrane.md",
@@ -207,7 +209,6 @@
     "Esterrane.md",
     "Warwood.md",
     "Waris Imperial Navy.md",
-    "Midmark.md",
     "Sending Slab.md",
     "Master Chart.md",
     "Explorers Society.md",
