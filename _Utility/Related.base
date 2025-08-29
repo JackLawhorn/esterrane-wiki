@@ -1,0 +1,23 @@
+filters:
+  or:
+    - parent.contains(this.file.name)
+    - this.parent.contains(file.name)
+formulas:
+  Related Content: file.asLink(if(title, title, file.name))
+  Untitled: name
+properties:
+  formula.Related Content:
+    displayName: Title
+views:
+  - type: table
+    name: List
+    order:
+      - formula.Related Content
+      - type
+    sort:
+      - property: type
+        direction: ASC
+      - property: formula.Related Content
+        direction: ASC
+    columnSize:
+      formula.Related Content: 254

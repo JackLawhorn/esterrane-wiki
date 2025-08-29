@@ -1,0 +1,14 @@
+filters:
+  and:
+    - chapter.contains(this.file.name)
+views:
+  - type: cards
+    name: Default
+    order:
+      - file.name
+      - type
+    sort:
+      - property: type
+        direction: ASC
+      - property: file.name
+        direction: ASC

@@ -1,0 +1,87 @@
+{
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [],
+  "icon": "circle-ellipsis",
+  "ribbonAction": "toolbar",
+  "scriptingEnabled": false,
+  "showEditInFabMenu": false,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "uuid": "78eff1a9-b9ef-4627-90ae-7dc828568154",
+      "customClasses": "",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "25568586-3ce9-4da5-8dd6-47acc07c95bf",
+          "label": "",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-01-24T03:40:18.987Z"
+    }
+  ],
+  "version": 20240727.1,
+  "whatsnew_version": 1.16
+}

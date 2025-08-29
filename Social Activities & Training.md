@@ -1,0 +1,7 @@
+---
+source: "[[Dungeon Master's Guide to Esterrane]]"
+---
+- **Gambling.** You can spend your downtime gambling on card or dice games: a quick way to make an extra buck and get to know your fellow crew members. Most games run out of the mess hall, though some take place at a smaller table by the communal sleeping area, and the stakes go as high as you're willing to bet.
+- **Fighting.** You can spend your downtime either betting on or taking part in sport fights between crew members. Most are casual, friendly matches to relieve stress, though some are held to settle personal disputes. The Captain is aware of these fights and allows them, though he rarely takes part or watches.
+- **Fishing.** You can spend your downtime fishing off the side of the ship using either one of the worn rods onboard or your own. Fishing is a popular sport in Esterrane and this is a good way to hone your skill. If you catch something appetizing you might even be able to pay the ship's Cook under the table to make you a personal meal.
+- **Miscellaneous Training.** With several hours of downtime every day, there are plenty of opportunities to hone existing skills or gain new ones. Skills, tools, vehicles, languages, and weapons are all trainable, either on your own or with the help of a friend. The better the teacher the easier and quicker you'll start to see an improvement.

@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#d0a215",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "snippet"
+  ],
+  "showRibbon": false,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "interfaceFontFamily": "Outfit,Sans Serif Collection",
+  "monospaceFontFamily": "Cascadia Code"
+}

@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.path.startsWith("_")'
+    order:
+      - file.name
+      - status
+      - type
+    sort:
+      - property: status
+        direction: ASC
+      - property: type
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 156
+      note.status: 135

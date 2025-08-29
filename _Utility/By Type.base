@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - type.contains("#Glossary")
+    order:
+      - file.name
+      - aliases
+      - parent
+    sort:
+      - property: file.name
+        direction: ASC
+    cardSize: 800

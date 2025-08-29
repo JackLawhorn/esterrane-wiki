@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "path:-\"/\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"source\":\"[[Adventurer's Guide to Esterrane]]\"]",
+      "color": {
+        "a": 1,
+        "rgb": 15740244
+      }
+    },
+    {
+      "query": "[\"type\":\"#Book\"]",
+      "color": {
+        "a": 1,
+        "rgb": 1345279
+      }
+    },
+    {
+      "query": "[\"source\":\"[[Dungeon Master's Guide to Esterrane]]\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16751375
+      }
+    },
+    {
+      "query": "[\"type\":\"#Glossary\"]",
+      "color": {
+        "a": 1,
+        "rgb": 880141
+      }
+    },
+    {
+      "query": "[\"source\":\"[[Player's Guide to Esterrane]]\"]",
+      "color": {
+        "a": 1,
+        "rgb": 8720572
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1.50160416666667,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.498054955233097,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.14212824197385093,
+  "close": true
+}

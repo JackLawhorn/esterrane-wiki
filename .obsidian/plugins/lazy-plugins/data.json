@@ -1,0 +1,31 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "plugins": {
+      "obsidian-banners": {
+        "startupType": "disabled"
+      },
+      "cmdr": {
+        "startupType": "disabled"
+      },
+      "obsidian-hider": {
+        "startupType": "instant"
+      },
+      "multi-column-markdown": {
+        "startupType": "disabled"
+      },
+      "system3-relay": {
+        "startupType": "disabled"
+      },
+      "settings-search": {
+        "startupType": "instant"
+      }
+    }
+  }
+}
