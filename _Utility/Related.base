@@ -20,4 +20,4 @@ views:
       - property: formula.Related Content
         direction: ASC
     columnSize:
-      formula.Related Content: 254
+      formula.Related Content: 314
