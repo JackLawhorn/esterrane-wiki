@@ -25,7 +25,7 @@ type: "#Book"
 	4.3. *[[Explorers Society]]* ✓
 	4.6. *[[Goblins of Esterrane]]*
 	4.4. *[[Independent Republic of Thieves' Hole]]* ✓
-	4.5. *[[Oakwest Company]]*
+	4.5. *[[Oakwest Company]]* ✓
 	4.7. *[[Ladies of the Court]]* ✓
 	4.8. *[[Minotaurs of New Mithas]]*
 	4.9. *[[Gondar of Powderkeep Blackmetal]]*

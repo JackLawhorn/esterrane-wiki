@@ -42,6 +42,30 @@ Their first foray into this field was the creation of the now ubiquitous [[Maste
 
 A more recent collaboration with the [[Gondar of Powderkeep Blackmetal|Gondar]] of [[Powderkeep Blackmetal]] has yielded the Company's [[Sending Slab|Sending Slab Network]], which allows for verbal communication across great distances. All are are carved from a single stone found in the [[Western Isles]] by [[Minotaurs of New Mithas|Minotauran]] [[Western Isles Expansion|expansionists]]. Each large slab is connected to all others and is able to be operated similarly to *sending stones* but with significantly augmented range. Though this range is not great enough to connect any of the region's major port cities, messages are relayed between ships and a growing number of permanent waystations.
 
+## The Oakwest Company Board of Directors
+
+The Oakwest Company is led by a Board of Directors, whose role is threefold: directing the operations of the corporation, administering worship of [[Gods & Deities#Waukeen|Waukeen]] in her temple, and governing the [[Midmark|City of Midmark]].
+
+The Board itself is made up of higher ups in the [[Gods & Deities#Waukeen|Waukeenar]] church, wealthy investors, and a small number of representatives from the [[Civilian Lobbies]] and other guilds. At the head of the Board is the Chief Executive Officer – currently [[Overgold Arselle Truegrip]] – who holds dual roles as the steward of the Company and as head of the temple. Below Overgold Truegrip are the ranks of the Grand Syndars, each of whom leads a distinct office or department.
+
+### Overgold Arselle Truegrip
+
+Overgold Arselle Truegrip serves as the Chief Executive Officer of the Oakwest Company, answering only to the Board of Directors itself. As the highest ranking cleric of [[Gods & Deities#Waukeen|Waukeen]] in the [[Sea of Esterrane]], she is also tasked with administering the operations of the [[Oakwest House]] as a temple and reports directly to the *Holycoin* – head of the Waukeenar church – back east in *Faerûn*.
+
+She is a stout, iron-hearted dwarven woman easily recognizable as a *goldeye*: one touched by the Merchant's Friend herself which grants the telltale pupils of vibrant gold. Where most leaders within the Company's labyrinthine organizational hierarchy are not well known among the populace, Truegrip commands attention as she walks the streets of [[Midmark]].
+
+>[!INFO] More info
+>To learn more, see [[Overgold Arselle Truegrip]]. 
+
+### Grand Syndar Breewyze Goldfen
+
+Grand Syndar Breewyze Golden serves as the Oakwest Company's Head of Research and Development, one of a great many Grand Syndars reporting to [[Overgold Arselle Truegrip]]. As a prolific artificer of the Church of [[Gods & Deities#Gond|Gond]], her ties to the [[Gondar of Powderkeep Blackmetal|Gondar]] of [[Powderkeep Blackmetal]] have helped forge powerful ties between the two factions and ultimately led to the development of the [[Sending Slab|Sending Slab Network]].
+
+She is an older gnomish woman most often seen in an eclectic combination of [[Gods & Deities#Waukeenar|Waukeenar]] clerical garb and Gondar lab equipment. Despite her close ties to the Church of Gond and her involvement in great works of engineering such as the Oakwest Company's [[Master Chart]], she is considered by devout Gondar to be much more attuned to the boardroom than to the workshop.
+
+>[!INFO] More info
+>To learn more, see [[Grand Syndar Breewyze Goldfen]]. 
+
 ## Power in Midmark
 
 The Oakwest Company serves as the steward and de facto ruler of the [[Midmark|City of Midmark]], the gleaming crown jewel of the [[Esterrane|Sea of Esterrane]]. At first, the source of their political power was a great amount of public goodwill garnered from their role in liberating the labor colony of *Arkaver* from the [[Waris Imperial Navy]] and building it up into the city that stands today. In the near century since then, the immense wealth and influence they've acquired from various, wildly successful business ventures has cemented their power here in Midmark and positioned them as the most powerful faction in all of Esterrane. Power and wealth flows into the region through the [[Port of Midmark]], and so the Company also largely controls the means of survival for many of their political rivals.
