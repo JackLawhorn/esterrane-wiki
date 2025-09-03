@@ -8,31 +8,65 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e35da5d655826069",
+            "id": "a8e1d00f651c5433",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oakwest Company.md",
+                "file": "Tritons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oakwest Company"
+              "title": "Tritons"
             }
           },
           {
-            "id": "484c6c9d8e770100",
+            "id": "ce6c762de3736218",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ladies of the Court.md",
+                "file": "Aegae Rock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ladies of the Court"
+              "title": "Aegae Rock"
+            }
+          },
+          {
+            "id": "499fc1709af849a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancient Tritons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ancient Tritons"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f88412d6ecb65775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "075211ac5d84daf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History of Midmark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History of Midmark"
             }
           },
           {
@@ -41,15 +75,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explorers Society.md",
+                "file": "Gods & Deities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Explorers Society"
+              "title": "Gods & Deities"
+            }
+          },
+          {
+            "id": "6093583022aca7c0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://forgottenrealms.fandom.com/wiki/Triton#Society",
+                "title": "Triton | Forgotten Realms Wiki | Fandom",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Triton | Forgotten Realms Wiki | Fandom"
+            }
+          },
+          {
+            "id": "71fb3163b612b38e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://forgottenrealms.fandom.com/wiki/Persana#:~:text=Persana%20(pronounced%3A%20%2Fp%C9%9C%CB%90r,god%20of%20construction%20and%20guardianship.",
+                "title": "Persana | Forgotten Realms Wiki | Fandom",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Persana | Forgotten Realms Wiki | Fandom"
+            }
+          },
+          {
+            "id": "e8bebc15827dec66",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://forgottenrealms.fandom.com/wiki/Triton_language",
+                "title": "Triton language | Forgotten Realms Wiki | Fandom",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Triton language | Forgotten Realms Wiki | Fandom"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "a05dd72aebd95451",
@@ -162,13 +240,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oakwest Company.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Oakwest Company"
+              "title": "Outline"
             }
           },
           {
@@ -207,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,18 +299,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e35da5d655826069",
+  "active": "a8e1d00f651c5433",
   "lastOpenFiles": [
-    "Adventurer's Guide to Esterrane.md",
-    "Oakwest Company.md",
+    "Ancient Tritons.md",
+    "Aegae Rock.md",
+    "Tritons.md",
+    "Goblin Wars.md",
+    "Gods & Deities.md",
+    "History of Midmark.md",
+    "Midmark.md",
     "Ladies of the Court.md",
     "Explorers Society.md",
+    "Oakwest Company.md",
+    "Adventurer's Guide to Esterrane.md",
     "_Attachments/Faiths_and_Pantheons_(3e).pdf",
-    "Midmark.md",
     "Western Isles Expansion.md",
     "Gondar of Powderkeep Blackmetal.md",
     "New Mithas.md",
-    "Gods & Deities.md",
     "Independent Republic of Thieves' Hole.md",
     "_Utility/Timeline.md",
     "History of the Oakwest Company.md",
@@ -245,10 +328,6 @@
     "Warwood.md",
     "Waris Imperial Navy.md",
     "Sending Slab.md",
-    "Master Chart.md",
-    "Magic items.md",
-    "History of Midmark.md",
-    "Ladies ofth.md",
     "_Utility/Progress.base",
     "_Utility/Related.base",
     "_Attachments",

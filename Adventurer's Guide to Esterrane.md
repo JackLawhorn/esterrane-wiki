@@ -2,7 +2,7 @@
 type: "#Book"
 ---
 1. **[[Welcome to Esterrane]]**
-	1.1. *[[Mysteries of the Ancient Tritons]]*
+	1.1. *[[Ancient Tritons]]*
 	1.2. *[[The Gods Are Closer Here]]*
 	1.3. *[[There's Something In the Water]]*
 	1.4. *[[Planar Phenomena]]*

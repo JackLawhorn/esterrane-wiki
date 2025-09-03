@@ -366,3 +366,22 @@ status: "#Status/InProgress"
 	- They are lavishly dressed in rich robes, gaudy and ornate ritual garb, with white silk undergarments, slashed and fluted sleeves and boots, pince-nez and lorgnettes  (if they have any weakness of vision); various useful items dangling from silk ribbons, and tall gilded and gem-covered miters. All covered by a gilded scarlet cloak heavy with the weight of thousands of wheels, plates, clasps, and flourishes of various precious metals. Finished off with white gloves and a gilded rod or staff carved and set with gems.
 - Temples are often ornately decorated and constructed with the finest materials with no expense spared. Decorations cover the floors, walls, roof pillars, and even ceilings if possible. These elements are baroque, intricate, brightly colored, and feature as much previous metal and gemstones as can be fitted into the design.
 	- Despite these aesthetics, temples are often impregnable fortresses in defense of the great wealth held inside
+
+## Persana
+*Guardian of the Deep, Justice of the Depths
+- **Symbol:** Silver trident against a silhouetted conch
+- **Home Plane:** Elemental Plane of Water
+- **Alignment:** Neutral good
+- **Portfolio:** Tritons, architecture
+- **Worshipers:** Tritons
+- Creator-god of the tritons
+- Construction and guardianship
+- He and his followers surround themselves with silence and mystery
+- Tall, muscular, green-skinned triton, often carrying a large pink and green conch shell
+- Part of the *asathalfinare* pantheon with the other good-aligned gods of aquatic races
+	- Deep Sashelas, creator of the sea elves
+	- Eadro, creator of the locathah and merfolk
+	- Trishina, mother of the shalarin, goddess of the dolphins, and consort of Deep Sashelas
+	- Surminare, goddess of the selkies
+	- Water Lion, an enigmatic god half-lion, half-fish
+	- Syranita, patron deity of the aarakocra (She was a member despite being an air goddess. This was partly because of her friendship with Aerdrie Faenya, with whom she supposedly merged, and partly because she sought amity for her relatively weak race)
