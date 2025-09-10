@@ -9,7 +9,7 @@ aliases:
 ---
 
 
-## Sovereignty of Aegae Rock
+## Sovereignty of Aegaeum Rock
 
 - [[Triton History Reconstruction Museum]] possesses one of only two original copies of the [[Triton-Minotauran Treaty]] which ensured complete ownership and autonomy of this last refuge, in exchange for the [[Minotaurs of New Mithas|Minotaurs]]' rights to expand into what little unsettled territory remained: the [[Western Isles]].
 - The document outlines the exact geographic boundaries of the neighborhood and specifies that Triton Town citizens are subject to the laws of their own council rather than those of the rest of New Mithas, so long as no actions against the latter cross over into New Mithas proper. The only addendum yet to be added to the Treaty hangs here as well, extending the verbiage to remove Triton Town from the jurisdiction of a new law enforcement organization: the Gun Witches.
